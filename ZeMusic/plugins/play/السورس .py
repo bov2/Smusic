@@ -25,13 +25,13 @@ async def huhh(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 𝗖𝗛𝗔𝗡𝗘𝗟 .", url=f"https://t.me/PR2222"), 
+                        " متجر شهد ", url=f"https://t.me/PR2222"), 
                  InlineKeyboardButton(
-                   "sᴏᴜʀᴄᴇ ɴɢᴅ ♪",       url=f"https://t.me/ngd_1"), 
+                   "𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐇𝐀𝐇𝐃",       url=f"https://t.me/S_S_U_M"), 
                  
              ],[ 
             InlineKeyboardButton(
-                        " ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Z_l_7"), 
+                        " ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/ICE0000000"), 
                       
              ],[ 
                   InlineKeyboardButton(
